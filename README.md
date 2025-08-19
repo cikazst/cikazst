@@ -24,3 +24,9 @@ Hi!, i'm Cika Zahratus <br><br>🔭 I’m currently study at SMKN 1 Banyuwangi<b
 
 
 
+![snake gif](https://github.com/cikazst/cikazst/blob/output/github-snake-dark.svg)
+
+
+
+
+
