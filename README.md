@@ -1,5 +1,7 @@
 ## Hi there, I'm Cika 👋
 
+
+<div align=center> ![snake gif](https://github.com/cikazst/cikazst/blob/output/github-snake-dark.svg) </div>
 <!--
 **cikazst/cikazst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
