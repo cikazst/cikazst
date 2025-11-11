@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, i'm Cika Zahratus <br><br>🔭 I’m currently study at SMKN 1 Banyuwangi<br>🌱 I’m currently learning java and javascript<br>🎮 Exploring: Unity & blender <br>🧩 Love solving bugs (even if I create them myself 😅) <br>🤝 I’m looking for help with pro player <br>💬 Don't ask me about anything cuz you'll get lost!<br>⚡ Fun fact I'm usually more productive at night — a true night coder.<br><br>📫 Reach me at: cikazhrasy@gmail.com
+Hi!, i'm Cika Zahratus <br><br>🔭 I’m currently study at SMKN 1 Banyuwangi<br>🌱 I’m currently learning design and javascript<br>🎮 Exploring: Unity & blender <br>🧩 Love solving bugs (even if I create them myself 😅) <br>🤝 I’m looking for help with pro player <br>💬 Don't ask me about anything cuz you'll get lost!<br>⚡ Fun fact I'm usually more productive at night — a true night coder.<br><br>📫 Reach me at: cikazhrasy@gmail.com
 
 
 ## 🌐 Socials:
