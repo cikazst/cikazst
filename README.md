@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b6e3f4,c9d9f7,dcc5f0&height=200&section=header&text=hi,%20i'm%20cizsy!%20✿&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=game%20dev%20·%20web%20·%20graphic%20design&descAlignY=58&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b6e3f4,c9d9f7,dcc5f0&height=200&section=header&text=Hi!,%20I'm%20Cika%20Zahratus!%20✿&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Game%20dev%20·%20web%20·%20Graphic%20design&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <br/>
 
@@ -15,19 +15,19 @@
 
 <br/>
 
-## ✿ about me
+## ✿ about me ✿
 
 <table border="0" align="center">
 <tr>
 <td width="55%" align="left">
 
 ```yaml
-name:     cizsy
-focus:    game dev + web + graphic design
-learning: Unity 🎮
-passion:  graphic design is my escape 🎨
-fact:     i turn coffee into pixels ☕
-ask me:   anything about graphic design!
+Name:     Cika Zahratus
+Focus:    Game dev + Web + Graphic design
+Learning: Godot
+Passion:  Graphic design is my escape 🎨
+Fact:     I turn coffee into pixels ☕
+Ask me:   Anything about graphic design!
 ```
 
 </td>
@@ -41,7 +41,7 @@ ask me:   anything about graphic design!
 
 <br/>
 
-## ✿ find me
+## ✿ find me ✿
 
 [![Instagram](https://img.shields.io/badge/Instagram-fce4f0?style=for-the-badge&logo=instagram&logoColor=c2719b)](https://instagram.com/cizhrasy)
 [![Email](https://img.shields.io/badge/Email-dceeff?style=for-the-badge&logo=gmail&logoColor=5b9bd5)](mailto:cikazhrasy@gmail.com)
@@ -53,14 +53,14 @@ ask me:   anything about graphic design!
 
 <br/>
 
-## ✿ currently working on
+## ✿ currently working on ✿
 
 <table align="center" border="0">
 <tr>
 <td align="center" width="520">
 
 🎮 &nbsp; **a game project** — building something fun with Godot & Unity  
-🌱 &nbsp; leveling up my **Unity** skills every day  
+🌱 &nbsp; leveling up my **Godot** skills every day  
 🎨 &nbsp; making graphics that *feel* like a warm hug  
 
 <br/>
