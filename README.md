@@ -5,8 +5,6 @@
 
 <br/>
 
-<iframe src="https://giphy.com/embed/wKWxuUOcp9fdvckBty" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minecraft-cute-pixel-sprite-wKWxuUOcp9fdvckBty">via GIPHY</a></p>
-
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=89CFF0&center=true&vCenter=true&width=500&lines=crafting+games+%26+pretty+interfaces+✨;graphic+design+is+my+escape+🎨;pixel+by+pixel%2C+dream+by+dream+🌙;currently+learning+Unity+🎮" />
 
