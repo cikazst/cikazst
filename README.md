@@ -45,8 +45,6 @@ Design is my escape. I love making visuals that *feel* like something — warm, 
 
 ![Figma](https://img.shields.io/badge/Figma-CDB4DB?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-BDE0FE?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-A2D2FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FFB3C6?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 </td>
 </tr>
