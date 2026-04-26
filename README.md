@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1,ffb3c6,a2d2ff,74b9e8&height=220&section=header&text=hey!%20i'm%20cika%20%F0%9F%8C%B8&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=game%20dev%20%E2%9C%A8%20graphic%20designer%20%E2%9C%A8%20pixel%20artist&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1,ffb3c6,a2d2ff,74b9e8&height=220&section=header&text=hey!%20i'm%20Cika%20%F0%9F%8C%B8&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=game%20dev%20%E2%9C%A8%20graphic%20designer%20%E2%9C%A8%20pixel%20artist&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=22&pause=900&color=5BA4CF&center=true&vCenter=true&width=520&lines=crafting+games+one+pixel+at+a+time+%F0%9F%8E%AE;design+that+feels+like+a+warm+hug+%F0%9F%8C%B8;godot+%26+unity+adventurer+%F0%9F%97%A1%EF%B8%8F;turning+ideas+into+pretty+things+%F0%9F%8E%A8" />
